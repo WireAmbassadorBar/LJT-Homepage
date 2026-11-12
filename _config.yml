@@ -19,7 +19,7 @@ repository               : "WireAmbassadorBar/LJT-Homepage"
 
 # Site Author
 author:
-  avatar           : "profile.png"
+  avatar           :
   name             : "Junteng Liu"
   pronouns         :
   bio              : "First-year PhD candidate at HKUST NLP Group, Hong Kong University of Science and Technology. Research focuses on natural language processing and machine learning."
